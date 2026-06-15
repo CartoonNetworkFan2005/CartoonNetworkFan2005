@@ -1,5 +1,5 @@
 # Howdy! Welcome to my GitHub page!
-I'm an up-and-coming modder.
+I'm an up-and-coming modder/game maker.
 
 ## My interests:
 - ☠️ ONE PIECE
