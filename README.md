@@ -10,6 +10,8 @@ I'm an up-and-coming modder/game maker.
 ## Upcoming projects:
 #### Friday Night Funkin':
 - ThatOneArrow's Expansion Pack!
+- Cycle of Chaos
+- The Ultimate SpongeBob and the Hi-Seas Experience
 
 #### Five Nights at Frickbear's 3:
 - FNaFB3: New Hires
